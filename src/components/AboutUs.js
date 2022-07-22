@@ -9,6 +9,8 @@ import { Styles } from './styles/aboutUs.js';
 import { useClientStore } from './../contextProviders/clientContext';
 import { Observer } from 'mobx-react';
 // import { fetchVideo } from "./../apis/api";
+
+
 import { useLocation } from 'react-router';
 
 import { getColorObj } from './common/element/elements';
